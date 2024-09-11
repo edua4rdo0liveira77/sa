@@ -9,7 +9,8 @@ html, body{
 #sectionMainPage{
   background-color: #0E4B04;
   width: 100%;
-  min-height: calc(100vh - 15rem);
+  height: 500px;
+  padding-top: 100px;
 }
 
 #sectionMainPage p{
